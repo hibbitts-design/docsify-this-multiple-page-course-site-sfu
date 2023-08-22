@@ -37,6 +37,10 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitt
 
 The above URL parameters are also available in the [Docsify-This Advanced Web Page Builder](https://paulhibbitts.github.io/test-docsify-this/?advanced=true).
 
+[Preconfigured Advanced Web Page Builder with SFU Visual Branding Defaults](https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&browser-tab-title=CPT-363&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&link-color=cc0633&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&search=true)
+
+[Preconfigured Advanced Web Page Builder with SFU Canvas Defaults](https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&line-height=1.5)
+
 Docsify-This Examples
 ---
 
