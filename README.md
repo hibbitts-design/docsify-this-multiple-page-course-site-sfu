@@ -35,7 +35,11 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitt
 To load the provided example [Docsify custom sidebar](https://docsify.js.org/#/more-pages?id=sidebar) along with the [Docsify custom navbar](https://docsify.js.org/#/custom-navbar?id=custom-navbar), manually add `&loadSidebar=_sidebar.md&loadNavbar=_navbar.md` to your published Docsify-This URL, for example:
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-cmpt-363-222-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md
 
-The above URL parameters are also available in the [Docsify-This Advanced Web Page Builder](https://paulhibbitts.github.io/test-docsify-this/?advanced=true). View a  [Preconfigured Advanced Web Page Builder with SFU Visual Branding Defaults](https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&browser-tab-title=CPT-363&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&link-color=cc0633&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&search=true) or a [Preconfigured Advanced Web Page Builder with SFU Canvas Defaults](https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&line-height=1.5).
+The above URL parameters are also available in the [Docsify-This Advanced Web Page Builder](https://paulhibbitts.github.io/test-docsify-this/?advanced=true).
+
+View a Preconfigured Docsify-This Advanced Web Page Builder with:  
+* [SFU Visual Branding Defaults](https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&browser-tab-title=CPT-363&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&link-color=cc0633&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&search=true)
+* [SFU Canvas Defaults](https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&line-height=1.5).
 
 Docsify-This Examples
 ---
